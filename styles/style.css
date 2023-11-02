@@ -283,4 +283,5 @@ ol {
   max-width: 194px;
   height: 103px;
   object-fit: cover;
+  object-position: center;
 }
